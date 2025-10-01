@@ -1,4 +1,0 @@
-1 Holothurian 海参
-2 Echinus        海胆
-3 Scallop	       扇贝
-4 Starfish        海星
